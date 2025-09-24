@@ -1,3 +1,5 @@
+  //! Zoom Level Sizes
+
 // world view => 0 ----> 3
 // country view => 4 ----> 6
 // city view => 10 ----> 12
